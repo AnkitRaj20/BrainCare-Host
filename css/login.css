@@ -1,0 +1,96 @@
+.login {
+    color: #999;
+  background-color: #fff;
+  font-family: 'Varela Round', sans-serif;
+  }
+  .login .form-control {
+  box-shadow: none;
+  border-color: #ddd;
+  }
+  .login .form-control:focus {
+  border-color: #4aba70; 
+  }
+  .login .login-form {
+    width: 350px;
+  margin: 0 auto;
+  padding: 30px 0;
+  }
+  .login .login-form form {
+    color: #434343;
+  border-radius: 2px;
+  margin-bottom: 15px;
+    background: #fff;
+  border: 1px solid #f3f3f3;
+    /* box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3); */
+    /* box-shadow: 27px 25px 20px -1px rgba(0,0,0,0.53);
+  -webkit-box-shadow: 27px 25px 20px -1px rgba(0,0,0,0.53);
+  -moz-box-shadow: 27px 25px 20px -1px rgba(0,0,0,0.53); */
+  /* box-shadow: 11px 10px 22px 12px rgba(107,95,95,0.75);
+  -webkit-box-shadow: 11px 10px 22px 12px rgba(107,95,95,0.75);
+  -moz-box-shadow: 11px 10px 22px 12px rgba(107,95,95,0.75); */
+  border-radius: 65px;
+  background: #e0e0e0;
+  box-shadow:  34px 34px 52px #676767,
+               -34px -34px 52px #ffffff;
+  
+    padding: 30px;
+  }
+  .login .login-form h4 {
+  text-align: center;
+  font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .login .login-form .avatar {
+    color: #fff;
+  margin: 0 auto 30px;
+    text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  z-index: 9;
+  background: #4a79ba;
+  padding: 15px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  .login .login-form .avatar i {
+    font-size: 62px;
+  }
+  .login .login-form .form-group {
+    margin-bottom: 20px;
+  }
+  .login .login-form .form-control, .login-form .btn {
+  min-height: 40px;
+  border-radius: 8px; 
+    transition: all 0.5s;
+  }
+  .login .login-form .close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  }
+  .login .login-form .btn {
+  /* background: #4aba70; */
+  background: #4b4bff;
+  width: 100%;
+  border: none;
+  line-height: normal;
+  }
+  .login .login-form .btn:hover, .login-form .btn:focus {
+  /* background: #42ae68; */
+  background: #2d3af2;
+  }
+  .login .login-form .checkbox-inline {
+    float: left;
+  }
+  .login .login-form input[type="checkbox"] {
+    margin-top: 2px;
+  }
+  .login .login-form .forgot-link {
+    float: right;
+  }
+  .login .login-form .small {
+    font-size: 13px;
+  }
+  .login .login-form a {
+    color: #e95f5f;
+  }
